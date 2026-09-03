@@ -5,3 +5,5 @@ Tras Cambio a branch RamaDevelop
 blablalba
 
 añadiendo línea
+
+En rama DevVSCodeTermianal donde creé rama develop con comandos básicos de git
